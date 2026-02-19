@@ -1,5 +1,5 @@
 function sayHi(){
-    alert("Hello thanks for clicking");
+    alert("Hi! Thanks for visiting my personal portfolio website. I hope you find it interesting and informative. Explore to know me more!");
 }
 
 function sendMessage(){
